@@ -3,6 +3,6 @@
 ### What does it do
 Converts all .flac files in a folder to .mp3 files
 ### How to use it
-Download http://ffmpeg.org/
+Download ![FFmpeg](http://ffmpeg.org/)
 
 Simply put convert.exe in folder that contains .flac files and run it
