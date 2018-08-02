@@ -1,4 +1,5 @@
-//wrriten in v8.9.4
+#!/usr/bin/env node
+//wrriten in node v8.9.4
 
 const fs = require('fs');
 const path = require('path');
